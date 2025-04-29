@@ -3,10 +3,14 @@
 Computer Science and Data Science student passionate about building AI-powered solutions that bridge technology with real-world impact. I specialize in data-driven applications, machine learning, and full-stack development, combining technical expertise with creative problem-solving. Open to collaborating on innovative projects that push boundaries in data science, AI, and emerging tech.
 
 <div align="center">
-👀 I’m interested in backend coding, learning data analytics and AI
-💞️ I’m looking to collaborate on any (and hopefully) many projects as a coder whose willing to learn when given the chance
-📫 How to reach me: LinkedIn: www.linkedin.com/in/vinod-george-profile, Insta: vinod_george27
-😄 Pronouns: He/Him  
+
+  👀 I’m interested in backend coding, learning data analytics and AI
+
+  💞️ I’m looking to collaborate on any (and hopefully) many projects as a coder whose willing to learn when given the chance
+
+  📫 How to reach me: LinkedIn: www.linkedin.com/in/vinod-george-profile, Insta: vinod_george27
+
+  😄 Pronouns: He/Him  
 </div>
 
 ## 🛠️ Tech Stack
