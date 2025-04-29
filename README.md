@@ -4,13 +4,12 @@ Computer Science and Data Science student passionate about building AI-powered s
 
 <div align="center">
 
-  👀 I’m interested in backend coding, learning data analytics and AI
-
   💞️ I’m looking to collaborate on any (and hopefully) many projects as a coder whose willing to learn when given the chance
 
   📫 How to reach me: LinkedIn: www.linkedin.com/in/vinod-george-profile, Insta: vinod_george27
 
   😄 Pronouns: He/Him  
+  
 </div>
 
 ## 🛠️ Tech Stack
